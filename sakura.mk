@@ -1,4 +1,4 @@
-'$(call inherit-product, vendor/xiaomi/MiuiCamera/config.mk)
+$(call inherit-product, vendor/xiaomi/MiuiCamera/config.mk)
 
 VENDOR_PATH := vendor/xiaomi/MiuiCamera
 
