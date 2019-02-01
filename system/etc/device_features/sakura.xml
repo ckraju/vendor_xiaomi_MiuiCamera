@@ -228,6 +228,10 @@
     <float name="camera_front_count_down_margin">-0.5573</float>
     <!--whether camera support portrait mode switch -->
     <bool name="camera_is_support_portrait_switch">true</bool>
+    <!--whether support square mode in camera-->
+    <bool name='support_camera_square_mode'>true</bool>
+    <!--whether support magic mirror in camera-->
+    <bool name='support_camera_magic_mirror'>true</bool>
     <bool name="front_fingerprint_sensor">false</bool>
     <bool name="support_parallel_process">false</bool>
     <!--whether the device supports smart cover with small window-->$
